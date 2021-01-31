@@ -1,0 +1,11 @@
+{
+  "development": {
+    "username": "sequelize_lecture",
+    "password": "password",
+    "database": "lecture_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "seederStorage": "sequelize",
+    "logger": true
+  }
+}
